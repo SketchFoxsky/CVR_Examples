@@ -8,7 +8,7 @@ I got tired of having users DM me for prefabs, so this is where I'll be distribu
 
 | Name                  | Type     | README                                          | Download                                                                                                                                | Description                               |
 |-----------------------|----------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| CCK Example Scenes| Unity Scenes   | N/A | [Download](https://github.com/SketchFoxsky/CVR_Examples/releases/tag/UIPropExample) | A collection of example content for ChilloutVR. |
+| CCK Example Scenes| Unity Scenes   | N/A | [Download](https://github.com/SketchFoxsky/CVR_Examples/releases/tag/CCKExamples) | A collection of example content for ChilloutVR. |
 | Dithering Transparency Shader| Shader| [README.md](https://github.com/SketchFoxsky/CVR_Examples/blob/main/DitheringTransparency/README.md) | [Download](https://github.com/SketchFoxsky/CVR_Examples/releases/tag/DitheringShader) | Fake transparency shader using a dithering technique|
 ---
 
