@@ -1,6 +1,6 @@
 // Made with Amplify Shader Editor v1.9.4
 // Available at the Unity Asset Store - http://u3d.as/y3X 
-Shader "DitheringCutout"
+Shader "SketchFoxsky/DitheringCutout"
 {
 	Properties
 	{
